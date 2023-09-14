@@ -10,7 +10,6 @@ Hi, I'm Richard!
 ### About me :
 
 - Currently learning Python
-- Will be posting more projects in the near future
 - Discord: not.richard
 - I use arch BTW
 
